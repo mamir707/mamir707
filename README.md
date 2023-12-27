@@ -4,10 +4,7 @@ Passionate data scientist with expertise in statistical modeling, machine learni
 
 ## 🚀 Data Science Projects
 
-- [Project 1 - Netflix Movies Analysis](Project_1/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)
-- [Project 2 - Scala Language History](Project_2/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
-- [Project 3 - Predictive Modelling for Agriculture](Project_3/Predictive%20Modelling%20for%20Agriculture.ipynb)
-- [Project 4 - Hypothesis Testing at Health Care](Project_4/Hypothesis%20Testing%20at%20Health%20Care.ipynb)
+Checkout my portfolio
 
 ## 🎓 Acknowledgment
 
